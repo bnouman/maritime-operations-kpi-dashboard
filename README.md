@@ -7,7 +7,7 @@ A simple but complete **Power BI dashboard** to monitor maritime / shipping oper
 - On-time rate %
 - Performance by **port** and by **month**
 
-Built entirely in **Power BI Service (web)** as a learning / portfolio project.
+Built entirely in **Power BI Service (web)** using **University of Aalto** virtual machine.
 
 ---
 
