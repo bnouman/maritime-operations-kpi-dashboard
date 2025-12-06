@@ -176,7 +176,7 @@ You can reproduce this dashboard in your own Power BI environment:
 
 ## 🖼 Screenshots
 
-![Maritime Operations KPI Dashboard](https://github.com/bnouman/maritime-operations-kpi-dashboard/blob/main/dashboard.png)
+![Maritime Operations KPI Dashboard](/dashboard.png)
 
 ---
 
