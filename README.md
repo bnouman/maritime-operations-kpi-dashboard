@@ -195,7 +195,7 @@ Some ideas to extend this project:
 
 ## 🧑‍💻 About
 
-This project was built as a practice / portfolio piece to improve skills in:
+Power BI Maritime Operations KPI Dashboard:
 
 - Power BI (web)
 - Data modeling and DAX
