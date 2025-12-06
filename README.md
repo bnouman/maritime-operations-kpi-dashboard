@@ -49,8 +49,6 @@ The data comes from a simple **Excel file** with one table: `Shipments`.
 - `VolumeTEU` – shipment volume in TEU
 - `Status` – `On Time` or `Delayed`
 
-In a real scenario this could be replaced by a database or API export from a TMS / ERP system.
-
 ---
 
 ## 🧮 DAX Measures & Calculated Columns
