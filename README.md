@@ -178,10 +178,6 @@ You can reproduce this dashboard in your own Power BI environment:
 
 ## 🖼 Screenshots
 
-> After uploading your screenshot to this repo, update the file name below.
-
-Example:
-
 ![Maritime Operations KPI Dashboard](https://github.com/bnouman/maritime-operations-kpi-dashboard/blob/main/dashboard.png)
 
 ---
