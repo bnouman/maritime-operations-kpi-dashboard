@@ -182,7 +182,7 @@ You can reproduce this dashboard in your own Power BI environment:
 
 Example:
 
-![Maritime Operations KPI Dashboard](screenshot-dashboard.png)
+![Maritime Operations KPI Dashboard](https://github.com/bnouman/maritime-operations-kpi-dashboard/blob/main/dashboard.png)
 
 ---
 
